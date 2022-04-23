@@ -1,5 +1,8 @@
 # Oasis TG Faucet Bot
 
+![image](https://user-images.githubusercontent.com/4479171/164944467-7fcf36f9-a73b-486f-b5a7-bd3a2bcf9e44.png)
+
+
 ## Installation
 
 `npm i`
