@@ -107,7 +107,7 @@ Note: This will send 0.01 ROSE to your address. We are working to get more token
         // update the records to show this
         this.records[senderId].push(now);
 
-        response = `Sent 0.01 ${this.tokenName} to ${address}!`;
+        response = `Sent 1000 ${this.tokenName} to ${address}!`;
       }
     } else {
       response = this.invalidAddressMessage;
